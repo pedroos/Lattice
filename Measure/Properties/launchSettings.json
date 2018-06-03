@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Measure": {
+      "commandName": "Project",
+      "commandLineArgs": "Test1"
+    }
+  }
+}

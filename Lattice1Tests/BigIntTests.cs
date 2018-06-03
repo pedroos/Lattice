@@ -4,7 +4,7 @@ using Lattice1;
 using System.Linq;
 using System.Numerics;
 
-namespace Lattice1Tests
+namespace Lattice1.Tests
 {
     [TestClass]
     public class BigIntTests
