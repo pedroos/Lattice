@@ -3,6 +3,10 @@ An algorithm for big integer multiplication.
 
 The lattice or gelosia method is an ancient multiplication method where numbers can be multiplied digit-by-digit and, as each digit only ranges from 0 to 9, the maximum multiplication performed per step is 9 x 9.
 
+![Lattice](lattice1.png)
+![Lattice](lattice2.png)
+![Lattice](lattice3.png)
+
 It works by walking cells of arbitrary shape (width x height) lattices (the grids shown above). Can compute 4999! (with 16322 digits) in 1m24s.
 
 The basic procedure can be divided in the following kinds of steps:
