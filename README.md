@@ -26,7 +26,6 @@ In any phase, when changing lines, we look for when the phase changes. According
 Pseudocode:
 
 ```
-Pseudocode
     let d1 be the amount of digits in the multiplicator, and 
     d2 be the amount of digits in the multiplicand.
 
