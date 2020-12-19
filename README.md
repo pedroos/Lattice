@@ -1,5 +1,5 @@
 # Gelosia algorithm
-An algorithm for big integer multiplication.
+An algorithm for big integer multiplication, also described [here](http://psobo.com/blog/a_gelosia_algorithm_implementation.html).
 
 The lattice or gelosia method is an ancient multiplication method where numbers can be multiplied digit-by-digit and, as each digit only ranges from 0 to 9, the maximum multiplication performed per step is 9 x 9.
 
